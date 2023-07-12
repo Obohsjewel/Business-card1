@@ -1,0 +1,53 @@
+body {
+    margin: 40px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.Sherifat {
+    width: 150px;
+    border-radius: 20px;
+    border-top: 5px solid #a4133c;
+    border-bottom: 5px solid #ff4d6d;
+    table-layout: 
+}
+
+.card {
+    border-radius: 30px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #dda15e;
+    color: #9b2226;
+    border-bottom: 10px solid #bc6c25;
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+
+.border-blue {
+    border: 1px dotted pink;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
